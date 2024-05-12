@@ -1,1 +1,1 @@
-Login,Sign Up and gignOut implemented
+Login,Sign Up and SignOut implemented
